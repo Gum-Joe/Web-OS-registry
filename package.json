@@ -1,0 +1,26 @@
+{
+  "name": "web-os-registry",
+  "version": "1.0.0",
+  "description": "The Web-OS registry module",
+  "main": "app.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gum-Joe/Web-OS-registry.git"
+  },
+  "keywords": [
+    "web",
+    "os",
+    "registry",
+    "sre",
+    "re"
+  ],
+  "author": "Web-OS",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Gum-Joe/Web-OS-registry/issues"
+  },
+  "homepage": "https://github.com/Gum-Joe/Web-OS-registry#readme"
+}
